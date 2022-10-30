@@ -1,5 +1,4 @@
-![alt text](https://app.circleci.com/pipelines/github/thanhlong1543/project-ml-microservice-kubernetes?branch=master)
-
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/thanhlong1543/project-ml-microservice-kubernetes/tree/master.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/thanhlong1543/project-ml-microservice-kubernetes/tree/master)
 
 ## Project Overview
 
