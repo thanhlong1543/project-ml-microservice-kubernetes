@@ -1,4 +1,4 @@
-![alt text](https://github.com/thanhlong1543/project-ml-microservice-kubernetes)
+![alt text](https://app.circleci.com/pipelines/github/thanhlong1543/project-ml-microservice-kubernetes?branch=master)
 
 
 ## Project Overview
