@@ -36,8 +36,3 @@ jobs:
           command: |
             . venv/bin/activate
             make linter
-
-workflows:
-  default:
-    jobs:
-      - build
